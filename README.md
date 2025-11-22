@@ -15,10 +15,10 @@ I’m a **Game Developer and Software Enthusiast** with a passion for building e
 
 ## 🚀 Projects
 
-- **[Crabpocalypse](https://github.com/yourusername/crabpocalypse)** – 2D platformer & turn-based RPG hybrid; features branching gameplay, combat mechanics, and creative character design.  
-- **[Playtime with Polly](https://github.com/yourusername/playtime-with-polly)** – Psychological horror game exploring narrative tension and interactive storytelling.  
-- **[Bardic: Quest for Love](https://github.com/yourusername/bardic-quest-for-love)** – 2D visual novel, dating sim, and tavern simulator built in Unity.  
-- **[Stories Suck](https://github.com/yourusername/stories-suck)** – 2D top-down beat ’em up showcasing game mechanics and player progression systems.  
+- **[Crabpocalypse](https://github.com/cfransen99/Crabpocolypse)** – 2D platformer & turn-based RPG hybrid; features branching gameplay, combat mechanics, and creative character design.  
+- **[Playtime with Polly](https://github.com/cfransen99/PlaytimeWithPolly)** – Psychological horror game exploring narrative tension and interactive storytelling.  
+- **[Bardic: Quest for Love]** – 2D visual novel, dating sim, and tavern simulator built in Unity.  
+- **[Stories Suck]** – 2D top-down beat ’em up showcasing game mechanics and player progression systems.  
 
 > Many of these projects were personal or academic, and I am now hosting them on GitHub to showcase my work and development experience.
 
